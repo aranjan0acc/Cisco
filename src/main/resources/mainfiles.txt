@@ -1,0 +1,3 @@
+src/main/resources/hello.txt
+src/main/resources/hello1.txt
+src/main/resources/hello2.txt
