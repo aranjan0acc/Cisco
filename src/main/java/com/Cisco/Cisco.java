@@ -74,7 +74,7 @@ System.out.println(word.get(key));
 }
 }
 //function to read the text file and concatenate all the lines into a single string
-static String readFile(String fileName) throws IOException {
+private static String readFile(String fileName) throws IOException {
 BufferedReader br = new BufferedReader(new FileReader(fileName));
 try {
 StringBuilder sb = new StringBuilder();
